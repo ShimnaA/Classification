@@ -5,7 +5,7 @@
     - Dataset - Social_Network_Ads.csv  [logistic_regression.ipynb]
 
     - A car company - manufacture a new SUV. Try to predict whether a customer will buy or not
-    - Data set contains each customer details - Age, Estimated Salary, and whether they bought an older SUV model previously.
+    - Data set contains each customer details - Age, Estimated Salary, and whether bought older SUV model before.
     - Set up a Logistic Model to Predict
     - No need to do Feature Scaling for Logistic REgression, Still applying Feature Scaling improves the model
     - Scikit Learn -> linearmodel -> LogisticRegression class
@@ -25,11 +25,20 @@
     - Dataset - Social_Network_Ads.csv  [logistic_regression.ipynb]
 
     - A car company - manufacture a new SUV. Try to predict whether a customer will buy or not
-    - Data set contains each customer details - Age, Estimated Salary, and whether they bought an older SUV model previously.
+    - Data set contains each customer details - Age, Estimated Salary, and whether bought older SUV model before.
     - Train  a K Nearest Neighbors classifier Model
     - Feature Scaling using Standard Scalar
     - Predict for a customer. Predict for Test Set
     - Visualize
     - Accuracy Score = 0.93
-   
+ 
+**Support Vector Machine**
+
+    - Dataset - Social_Network_Ads.csv  [support_vector_machine.ipynb]
+    
+    - Kernel SVM. The rebellious algorithm.
+    - Never bad to apply Feature Scaling.
+    - SVM using linear kernel
+    - Evaluate and Visualize
+    - Accuracy Score = 0.90
     
