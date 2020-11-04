@@ -42,3 +42,12 @@
     - Evaluate and Visualize
     - Accuracy Score = 0.90
     
+**Kernel SVM**
+
+    - Dataset - Social_Network_Ads.csv  [support_vector_machine.ipynb]
+    
+    - sklearn.svm -> SVC, with kernel='rbf' (non linear kernel)
+    - Feature scaling applied
+    - Evaluate and Visualize. Accuracy Score = 0.93
+   
+    
