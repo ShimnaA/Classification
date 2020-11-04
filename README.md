@@ -69,3 +69,12 @@
     - Feature scaling applied
     - Evaluate and Visualize. Accuracy Score = 0.91
     
+    
+**Random Forest**
+
+    - Dataset - Social_Network_Ads.csv  [support_vector_machine.ipynb]
+    
+    - sklearn.ensemble -> RandomForestClassifier
+    - Number of trees selected as 10
+    - To measure the quality of split - entropy - for information gain
+    - Evaluate and Visualize. Accuracy Score = 0.91
