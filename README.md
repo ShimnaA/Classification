@@ -49,5 +49,15 @@
     - sklearn.svm -> SVC, with kernel='rbf' (non linear kernel)
     - Feature scaling applied
     - Evaluate and Visualize. Accuracy Score = 0.93
+    
+    
+**Naive Bayes**
+
+    - Dataset - Social_Network_Ads.csv  [support_vector_machine.ipynb]
+    
+    - sklearn.naive_bayes -> GaussianNB
+    - Feature scaling applied
+    - Non linear model
+    - Evaluate and Visualize. Accuracy Score = 0.90
    
     
