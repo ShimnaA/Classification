@@ -61,3 +61,11 @@
     - Evaluate and Visualize. Accuracy Score = 0.90
    
     
+**Decision Tree**
+
+    - Dataset - Social_Network_Ads.csv  [support_vector_machine.ipynb]
+    
+    - sklearn.tree -> DecisionTreeClassifier
+    - Feature scaling applied
+    - Evaluate and Visualize. Accuracy Score = 0.91
+    
